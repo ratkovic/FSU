@@ -1,0 +1,21 @@
+Package: FSU
+Title: Handout and Precept Materials for FSU Causal Inference and Machine Learning
+Version: 1.0
+Authors@R: c(
+  person("Marc", "Ratkovic", email = "ratkovic@princeton.edu", role = c("aut", "cre")))
+Description: This package allows students to unpack and view the 
+             handouts and answer the questions used in the FSU seminar.  This package 
+	     builds from the materials of POL345.student by Will Lowe, and is used with 
+	     much gratitude.
+Depends: R (>= 3.3)
+Imports: cli
+RoxygenNote: 7.2.3
+Suggests: testthat,
+  knitr,
+  rmarkdown,
+  devtools
+License: GPL-3 + file LICENSE
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/ratkovic/FSU
+BugReports: https://github.com/ratkovic/FSU/issues
