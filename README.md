@@ -1,3 +1,4 @@
+# Causal Inference and Machine Learning Shortcourse
 
 Hello! Welcome to the FSU short course on Machine Learning and Causal Inference. We will be working from an overleaf available [here](https://www.overleaf.com/read/dhrpjympcfkm).
 
