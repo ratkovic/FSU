@@ -6,7 +6,16 @@ If you have R and RStudio installed on your computer, you're just about good to 
 
 Finally, with those in place, install this package using  `devtools::install_github('ratkovic/FSU')`. 
 
-With all of the packages in, run `FSU::get_handout(1)` and then follow the instructions.
 
-The structure of this package comes from work done by Will Lowe, so thank him when you see him.
+## Loading in a handout 
+
+With all of the packages in, run `FSU::get_handout(1)` and then you will be given instructions on how to access the handout.  The handout will be used to illustrate ideas from the discussion as well as introduce you to methods for causal inference and machine learning.
+
+
+## Updating the package
+
+This package will be updated throughout the course.  You can download the most recent version of this package by running  `FSU::update_package()`.
+
+
+The structure of this package builds off work first done by Will Lowe, so thank him when you see him.
 
