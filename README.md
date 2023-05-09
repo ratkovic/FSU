@@ -35,7 +35,7 @@ If you have problems downloading these packages, you can run them from Docker.  
 
 * Open a terminal or command prompt. Enter:
 
-`docker pull marcratkovic/rstudio_fsu`
+`docker pull marcratkovic/rstudio_fsu:devtools`
 
 then from the command line run
 
@@ -43,7 +43,7 @@ then from the command line run
 
 * Open a browser and enter the url `http://localhost:8787`
 
-You should be good to go, with `devtools` downloaded!
+You should be good to go, with `remotes` downloaded, so you can run `remotes::install_github('ratkovic/FSU')` and `remotes::install_github('ratkovic/PLCE')`.
 
 
 
