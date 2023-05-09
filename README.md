@@ -45,7 +45,13 @@ then from the command line run
 
 `http://localhost:8787`
 
-You should be good to go, with `remotes` downloaded, so you can run `remotes::install_github('ratkovic/FSU` and `remotes::install_github('ratkovic/PLCE'`.
+You should be good to go, with `remotes` downloaded, so you can run 
+
+`remotes::install_github('ratkovic/FSU` 
+
+and 
+
+`remotes::install_github('ratkovic/PLCE'`.
 
 
 
