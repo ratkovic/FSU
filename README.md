@@ -41,7 +41,9 @@ then from the command line run
 
 `docker run -d -p 8787:8787 marcratkovic/rstudio_fsu`
 
-* Open a browser and enter the url `http://localhost:8787`
+* Open a browser and enter the url 
+
+`http://localhost:8787`
 
 You should be good to go, with `remotes` downloaded, so you can run `remotes::install_github('ratkovic/FSU` and `remotes::install_github('ratkovic/PLCE'`.
 
